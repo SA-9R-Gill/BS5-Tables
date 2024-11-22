@@ -1,0 +1,18 @@
+body {
+	background-color: #F1E3E4; 
+	color: #1C1D21;
+}
+
+.container {
+	background-color: #CCBCBC;
+	padding: 15px;
+}
+
+h1 {
+	font-family:  "Lucida Console", "Courier New", monospace;
+}
+
+img {
+	max-height: 200px;
+	max-width: 100pxpx;
+}
