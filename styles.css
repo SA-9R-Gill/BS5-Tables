@@ -10,6 +10,8 @@ body {
 
 h1 {
 	font-family:  "Lucida Console", "Courier New", monospace;
+	animation: wobble;
+	animation-duration: 10s;
 }
 
 img {
